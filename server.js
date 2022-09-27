@@ -17,6 +17,9 @@ const server = http.createServer((req, res) => {
                 res.write(body);
                 res.end();
             })
+            .catch((err) => {
+                if(err) console.log(err);
+            })
     }
 
     // 2 - GET Request - Return By Affiliation: Wealth
@@ -33,6 +36,9 @@ const server = http.createServer((req, res) => {
                 fs.writeFile(`${__dirname}/data/wealthCharacters.json`, JSON.stringify(wealthCharacters), (err) => {
                     if (err) console.log(err)
                 })
+            .catch((err) => {
+                if(err) console.log(err);
+            })
                 res.write(body)
                 res.end();
             })
@@ -53,6 +59,9 @@ const server = http.createServer((req, res) => {
                 fs.writeFile(`${__dirname}/data/fameCharacters.json`, JSON.stringify(fameCharacters), (err) => {
                     if (err) console.log(err)
                 })
+            .catch((err) => {
+                if(err) console.log(err)
+            })
                 res.write(body)
                 res.end();
             })
