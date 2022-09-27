@@ -31,5 +31,5 @@ By proceeding with the following steps, you will be able to see the server in ac
 * 5 - Now head on over to Postman/Insomnia's HTTP Client and following the steps below this, make GET requests to the currently available endpoints. 
   
 ### Current Available `GET` Requests
-* [x] Accessing the `/' root directory (localhost:9090/) will return an array of every existing character currently in Octopath COTC.
-* [x] Accessing the `/affiliation/wealth' directory (localhost:9090/affiliation/wealth) will return an array of every existing character currently in Octopath COTC.  
+* [x] Accessing the `'/'` root directory (localhost:9090/) will return an array of every existing character currently in Octopath COTC.
+* [x] Accessing the `/affiliation/wealth'` directory (localhost:9090/affiliation/wealth) will return an array of every existing character currently in Octopath COTC.  
