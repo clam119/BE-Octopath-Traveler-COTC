@@ -1,0 +1,284 @@
+[
+  {
+    "characterName": "Eliza",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Edea",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Wrath",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Olberic",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Tytos",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Sigrid",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Miles",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Nanna",
+    "rarity": "3",
+    "affiliation": "Power",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Gilderoy",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Wludai",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Clauser",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Helga",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Barrad",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Carroll",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Heathcote",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Leeto",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Falco",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "ATwo",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Felline",
+    "rarity": "3",
+    "affiliation": "Power",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Theo",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Soleil",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Haze",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Rita",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Cornelia",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Saria",
+    "rarity": "3",
+    "affiliation": "Power",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Jillmeila",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Chloe",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Lucette",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Molrusso",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Prome",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Ramona",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Cedric",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Elfrain",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Pearl",
+    "rarity": "3",
+    "affiliation": "Power",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Varkyn",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Odette",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Ninalana",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Araune",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Laura",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Eunice",
+    "rarity": "3",
+    "affiliation": "Power",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Lynette",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Glossom",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Primrose",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Hasumi",
+    "rarity": "5",
+    "affiliation": "Power",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Mabel",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Paula",
+    "rarity": "4",
+    "affiliation": "Power",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Evelyn",
+    "rarity": "3",
+    "affiliation": "Power",
+    "jobClass": "Dancer"
+  }
+]
