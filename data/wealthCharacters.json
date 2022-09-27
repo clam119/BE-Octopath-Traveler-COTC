@@ -1,0 +1,254 @@
+[
+  {
+    "characterName": "Tikilen",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Kouren",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Trish",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Jorn",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Menny",
+    "rarity": "3",
+    "affiliation": "Wealth",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Tressa",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Dorothea",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Nonya",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "NineS",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Devin",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Cerna",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Conny",
+    "rarity": "3",
+    "affiliation": "Wealth",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Viola",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Adelle",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Therion",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Wingate",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Kurtz",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Billy",
+    "rarity": "3",
+    "affiliation": "Wealth",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Gertrude",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Shelby",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Merrit",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Penny",
+    "rarity": "3",
+    "affiliation": "Wealth",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Zaanta",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Herminia",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Bertrand",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Camilla",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Narr",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Camilla",
+    "rarity": "3",
+    "affiliation": "Wealth",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Sunny",
+    "rarity": "3",
+    "affiliation": "Wealth",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Stead",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "YanLong",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Madelaine",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Brigitte",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Telly",
+    "rarity": "3",
+    "affiliation": "Wealth",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Sophia",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Mooloo",
+    "rarity": "5",
+    "affiliation": "Wealth",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Heinz",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Kenneth",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Levan",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Dolly",
+    "rarity": "3",
+    "affiliation": "Wealth",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Fabio",
+    "rarity": "4",
+    "affiliation": "Wealth",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Hally",
+    "rarity": "3",
+    "affiliation": "Wealth",
+    "jobClass": "Dancer"
+  }
+]
