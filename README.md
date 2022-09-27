@@ -34,5 +34,5 @@ By proceeding with the following steps, you will be able to see the server in ac
 * [x] Accessing the `'/'` root directory (localhost:9090/) will return an array of every existing character currently in Octopath COTC.
 * [x] Accessing the `/affiliation/wealth'` directory (localhost:9090/affiliation/wealth) will return an array of every existing character with the affiliation of "Wealth".  
 * [x] Accessing the `/affiliation/fame'` directory (localhost:9090/affiliation/fame) will return an array of every existing character with the affiliation of "Fame".  
-* [ ] Accessing the `/affiliation/power'` directory (localhost:9090/affiliation/power) will return an array of every existing character with the affiliation of "Power".  
+* [x] Accessing the `/affiliation/power'` directory (localhost:9090/affiliation/power) will return an array of every existing character with the affiliation of "Power".  
   
