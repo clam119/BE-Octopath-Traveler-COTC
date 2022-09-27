@@ -38,6 +38,25 @@ const server = http.createServer((req, res) => {
             })
     }
 
+    // 3 - GET Request - Return By Affiliation: Fame
+
+    if(req.url === '/affiliation/fame' && req.method === 'GET') {
+        res.statusCode = 200;
+        res.setHeader('Content-Type', 'application/json');
+        let body = '';
+        fsPromise.readFile(`${__dirname}/data/traveler-index.json`)
+            .then((data) => {
+                const parsedData = JSON.parse(data);
+                const fameCharacters = parsedData.filter(char => char.affiliation === 'Fame');
+                body += JSON.stringify(fameCharacters);
+                console.log(fameCharacters)
+                fs.writeFile(`${__dirname}/data/fameCharacters.json`, JSON.stringify(fameCharacters), (err) => {
+                    if (err) console.log(err)
+                })
+                res.write(body)
+                res.end();
+            })
+    }
 
 
 
