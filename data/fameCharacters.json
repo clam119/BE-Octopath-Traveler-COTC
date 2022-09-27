@@ -1,0 +1,284 @@
+[
+  {
+    "characterName": "Fior",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Lionel",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Joshua",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Richard",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "TwoB",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Tahir",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Yugo",
+    "rarity": "3",
+    "affiliation": "Fame",
+    "jobClass": "Warrior"
+  },
+  {
+    "characterName": "Cardona",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Cecily",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Largo",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Pia",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Juan",
+    "rarity": "3",
+    "affiliation": "Fame",
+    "jobClass": "Merchant"
+  },
+  {
+    "characterName": "Nicola",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Auguste",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Cless",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Aslye",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Durand",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Diego",
+    "rarity": "3",
+    "affiliation": "Fame",
+    "jobClass": "Thief"
+  },
+  {
+    "characterName": "Lyummis",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Alfyn",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Rodion",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Jorge",
+    "rarity": "3",
+    "affiliation": "Fame",
+    "jobClass": "Apothecary"
+  },
+  {
+    "characterName": "Scarecrow",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Haanit",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Kersjes",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Yunnie",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Ashlan",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Lolo",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "LGutiolo",
+    "rarity": "3",
+    "affiliation": "Fame",
+    "jobClass": "Hunter"
+  },
+  {
+    "characterName": "Millard",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Agnes",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Lianna",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Ophilia",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Menno",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Jose",
+    "rarity": "3",
+    "affiliation": "Fame",
+    "jobClass": "Cleric"
+  },
+  {
+    "characterName": "Therese",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Cyrus",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Elvis",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Peredir",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Noel",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Julio",
+    "rarity": "3",
+    "affiliation": "Fame",
+    "jobClass": "Scholar"
+  },
+  {
+    "characterName": "Harley",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Titi",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Eleonora",
+    "rarity": "5",
+    "affiliation": "Fame",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Iris",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Meena",
+    "rarity": "4",
+    "affiliation": "Fame",
+    "jobClass": "Dancer"
+  },
+  {
+    "characterName": "Manuel",
+    "rarity": "3",
+    "affiliation": "Fame",
+    "jobClass": "Dancer"
+  }
+]
