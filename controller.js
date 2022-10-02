@@ -9,7 +9,6 @@ readAllPower
 export const fetchAllTravelers = (req, res) => {
     readAllTravelers()
     .then(data => {
-        console.log(data);
         res.status(200).send(data);
     })
     .catch((err) => {
